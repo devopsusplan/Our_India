@@ -1,0 +1,2 @@
+n=$`(pstree)`
+echo "$n"
