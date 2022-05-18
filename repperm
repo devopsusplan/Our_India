@@ -1,5 +1,0 @@
-curl \
-  -X PUT \
-  -u vsr359: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 \
-  -H "Accept: application/vnd.github.v3+json" \
-  https://api.github.com/orgs/devopsusplan/teams/Ateam/repos/devopsusplan/Our_India
